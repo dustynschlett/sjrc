@@ -554,7 +554,7 @@
 }
 
 :host {
-    --color-bg-inrange: #d5dbff;
+    --color-bg-inrange: #c8eadf;
     --color-bg-tooltip: #fff;
     --color-fg-tooltip: #333
 }
